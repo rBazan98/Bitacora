@@ -1,0 +1,5 @@
+Esta es la primera linea del archivo historia.txt
+
+Esta es la decima linea del archivo historia.png
+
+Aqui decia xddddd
