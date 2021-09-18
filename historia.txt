@@ -1,1 +1,19 @@
-ª
+Esta es la primera linea del archivo historia.txt
+
+Esta es la tercera linea del archivo historia.txt
+
+Aqui decia algo jocoso
+
+Inicio a jugar el 18 de septiembre
+
+Fin del archivo.
+
+-----------------------------------
+BRANCH A
+-----------------------------------
+
+Creación de un segundo espacio en el documento.
+
+En este espacio se harán las pruebas para aprender a utilizar branchs.
+
+Fin del la rama llamada "BRANCH A".
