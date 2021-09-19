@@ -17,3 +17,13 @@ Creación de un segundo espacio en el documento.
 En este espacio se harán las pruebas para aprender a utilizar branchs.
 
 Fin del la rama llamada "BRANCH A".
+
++-----------------------------------
++BRANCH B
++-----------------------------------
++
++Creacion de un segundo espacio en el documento.
++
++En este espacio se haran las pruebas para aprender autilizar branchs.
++
++Fin del la rama llamada "BRANCH B".
