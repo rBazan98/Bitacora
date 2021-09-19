@@ -7,3 +7,12 @@ Aqui decia algo jocoso
 Inicio a jugar el 18 de septiembre
 
 Fin del archivo.
+
+--------
+Branches
+--------
+/*
+Aqui va el contenido de las pruebas de BRANCH A y BRANCH B
+
+Mas adelante escogeremos cual utilizar.
+*/
