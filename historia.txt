@@ -8,11 +8,12 @@ Inicio a jugar el 18 de septiembre
 
 Fin del archivo.
 
---------
-Branches
---------
-/*
-Aqui va el contenido de las pruebas de BRANCH A y BRANCH B
+-----------------------------------
+BRANCH A
+-----------------------------------
 
-Mas adelante escogeremos cual utilizar.
-*/
+Creación de un segundo espacio en el documento.
+
+En este espacio se harán las pruebas para aprender a utilizar branchs.
+
+Fin del la rama llamada "BRANCH A".
