@@ -6,15 +6,19 @@ Aqui decia algo jocoso
 
 Inicio a jugar el 18 de septiembre
 
-Fin del archivo.
+El 18 no se modifico ninguna linea (pruebas de reset y checkout)
+
+Inicio a jugar 19 de septiembre:
+
+Se realizan pruebas con merge y con varias ramas.
 
 -----------------------------------
 BRANCH A
 -----------------------------------
 
-Creación de un segundo espacio en el documento.
+Creacion de un segundo espacio en el documento.
 
-En este espacio se harán las pruebas para aprender a utilizar branchs.
+En este espacio se haran las pruebas para aprender a utilizar branchs.
 
 Fin del la rama llamada "BRANCH A".
 
@@ -27,3 +31,8 @@ Fin del la rama llamada "BRANCH A".
 +En este espacio se haran las pruebas para aprender autilizar branchs.
 +
 +Fin del la rama llamada "BRANCH B".
+
+====================================
+Fin de pruebas con merge.
+
+-Fin del documento.
