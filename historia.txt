@@ -40,4 +40,9 @@ Bloque añadido desde Git Hub
 
 Linea añadida porque el commit anterior no se hizo una descripcion completa!
 
+====================================
+21 de septiembre: Creando conexion ssh
+
+Esta linea se hace para hacer merge de los repositorios local y remoto mediante el ssh
+
 -Fin del documento.
