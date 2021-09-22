@@ -47,7 +47,7 @@ Esta linea se hace para hacer merge de los repositorios local y remoto mediante 
 
 wtf???????
 
-
+No entiendo aaaaaa
 
 
 -Fin del documento.
