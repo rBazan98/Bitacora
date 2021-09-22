@@ -50,6 +50,6 @@ Esta linea se hace para hacer merge de los repositorios local y remoto mediante 
 
 Debido a problemas raciales he desconfigurado todo y este dia intentaré repararlo
 
-
+Este momento es antes de enviar a git
 
 -Fin del documento.
