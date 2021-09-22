@@ -52,4 +52,6 @@ Debido a problemas raciales he desconfigurado todo y este dia intentaré reparar
 
 Este momento es antes de enviar a git
 
+CONSEGUIDO!
+
 -Fin del documento.
