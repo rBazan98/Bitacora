@@ -45,8 +45,10 @@ Linea añadida porque el commit anterior no se hizo una descripcion completa!
 
 Esta linea se hace para hacer merge de los repositorios local y remoto mediante el ssh
 
-wtf???????
+====================================
+22 de septiembre: Reconfigurando GitHub
 
+Debido a problemas raciales he desconfigurado todo y este dia intentaré repararlo
 
 
 
